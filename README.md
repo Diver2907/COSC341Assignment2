@@ -1,1 +1,0 @@
-# COSC341Assignment2
